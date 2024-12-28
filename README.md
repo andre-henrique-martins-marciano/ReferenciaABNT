@@ -25,6 +25,7 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
 Contato
+
 Caso tenha dúvidas ou sugestões, entre em contato:
 •	Email: ahmartinsm@gmail.com
 •	GitHub: https://github.com/andre-henrique-martins-marciano
