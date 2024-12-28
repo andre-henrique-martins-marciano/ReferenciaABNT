@@ -23,10 +23,12 @@ Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 7.	git push origin minha-branch
 8.	Abra um Pull Request.
 Licença
+
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais informações.
 Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato:
+
 •	Email: ahmartinsm@gmail.com
 •	GitHub: https://github.com/andre-henrique-martins-marciano
 •	LinkedIn: https://www.linkedin.com/in/andre-henrique-martins/
