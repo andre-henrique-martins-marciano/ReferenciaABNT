@@ -11,7 +11,7 @@ Tecnologias Utilizadas
 •	Banco de Dados: MySql
 Requisitos de Instalação
 1.	Clone o repositório:
-2.	git clone https://github.com/seu-usuario/sistema-referencia.git
+2.	git clone https://github.com/andre-henrique-martins-marciano/ReferenciaABNT.git
 Contribuição
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 1.	Fork o repositório.
